@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "culter-associates.com",
     "footer": {
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Contact Us",
