@@ -46,5 +46,11 @@
                 "new_window": true
             }
         ]
+    },
+    "header": {
+        "title": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
     }
 }
