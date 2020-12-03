@@ -38,14 +38,7 @@
             }
         ],
         "content": "&copy; Culter Associates.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ]
+        "links": []
     },
     "header": {
         "title": "culter-associates.com",
